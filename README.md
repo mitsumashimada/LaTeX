@@ -7,3 +7,6 @@
 * figure.pdf
 * biblio.bib
 * draft.pdf(学籍番号_氏名.pdfに変更する)
+
+## 提出期限
+* 5月29日のゼミの時間まで
